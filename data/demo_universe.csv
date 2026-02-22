@@ -1,0 +1,8 @@
+instrument_id,ticker,name,asset_class,region,currency,eligible,isin,min_weight,max_weight,notes
+EQ_US_SPY,SPY,SPDR S&P 500 ETF,Equity,US,USD,TRUE,,0,30,US equity beta
+FI_US_AGG,AGG,iShares Core US Aggregate Bond,Rates,US,USD,TRUE,,0,35,Core bond proxy
+CMD_US_GLD,GLD,SPDR Gold Shares,Commodities,Global,USD,TRUE,,0,20,Inflation hedge
+FX_US_UUP,UUP,Invesco DB US Dollar Index Bullish Fund,FX,US,USD,TRUE,,0,20,USD proxy
+EQ_EM_EEM,EEM,iShares MSCI Emerging Markets ETF,Equity,EM,USD,TRUE,,0,20,EM equity
+CR_US_HYG,HYG,iShares iBoxx High Yield Corporate Bond ETF,Credit,US,USD,TRUE,,0,20,Credit spread proxy
+ALT_US_VNQ,VNQ,Vanguard Real Estate ETF,Alternatives,US,USD,FALSE,,0,15,Optional real estate exposure
